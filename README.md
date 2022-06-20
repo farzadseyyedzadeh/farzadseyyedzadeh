@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Laravel
+🌱 I’m currently learning Laravel <br>
 📫 How to reach me:farzadseyyedzadeh@gmail.com
 <hr>
 <h2 align="center">Connect with me!</h2>
