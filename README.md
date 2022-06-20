@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning Laravel
-📫 How to reach me:mailto:farzadseyyedzadeh@gmail.com
+📫 How to reach me:farzadseyyedzadeh@gmail.com
 <hr>
 <h2 align="center">Connect with me!</h2>
 
