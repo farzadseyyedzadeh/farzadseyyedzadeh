@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working with PHP
 🌱 I’m currently learning Laravel <br>
-📫 How to reach me:farzadseyyedzadeh@gmail.com
+📫 How to reach me: farzadseyyedzadeh@gmail.com
 <hr>
 <h2 align="center">Connect with me!</h2>
 
