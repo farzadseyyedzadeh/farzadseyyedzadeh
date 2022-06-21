@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working with PHP
 🌱 I’m currently learning Laravel <br>
 📫 How to reach me:farzadseyyedzadeh@gmail.com
 <hr>
