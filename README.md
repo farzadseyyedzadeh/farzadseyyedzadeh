@@ -2,15 +2,6 @@
 <h1 align="center">Hi 👋, I'm Farzad Seyyedzadeh</h1>
 <h3 align="center">a web Developer from Iran</h3>
 
-
-
-   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadseyyedzadeh" alt="farzadseyyedzadeh" /></a> </p> 
-
- <a href="https://www.twitter.com/Farzadseyy" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/Farzadseyy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>  
-                <a href="https://www.github.com/farzadseyyedzadeh" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/farzadseyyedzadeh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
 - 🌱 I’m currently learning **Laravel** and **flutter**
