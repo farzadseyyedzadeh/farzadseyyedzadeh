@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Farzad Seyyedzadeh</h1>
 <h3 align="center">a web Developer from Iran</h3>
 
-- 🌱 I’m currently learning **Laravel** and **flutter**
+- 🌱 I’m currently learning  **flutter**
 
 - 💬 Ask me about **PHP , Java**
 
