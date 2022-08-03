@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning  **flutter**
 
-- 💬 Ask me about **PHP , Java**
+- 💬 Ask me about **PHP , Java , Dart** 
 
 - 📫 How to reach me **farzadseyyedzadeh@gmail.com**
 
