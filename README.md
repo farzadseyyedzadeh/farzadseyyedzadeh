@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Farzad Seyyedzadeh</h1>
-<h3 align="center">a web Developer from Iran</h3>
+<h3 align="center">a web and mobile Developer from Iran</h3>
 
 - 🌱 I’m currently learning  **flutter**
 
