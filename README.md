@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farzadseyyedzadeh" alt="farzadseyyedzadeh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/farzadseyy" target="blank"><img src="https://img.shields.io/twitter/follow/farzadseyy?logo=twitter&style=for-the-badge" alt="farzadseyy" /></a> </p>
 
 - 🌱 I’m currently learning **flutter**
 
