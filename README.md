@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/farzadseyyedzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/farzadseyyedzadeh" height="30" width="40" /></a>
   <a href="https://twitter.com/farzadseyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farzadseyy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/farzadseyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farzadseyyedzadeh" height="30" width="40" /></a>
-<a href="https://instagram.com/farzad.seyyedzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farzad.seyyedzadeh" height="30" width="40" /></a>
+<a href="https://instagram.com/iamseyfarsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamseyfarsey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
