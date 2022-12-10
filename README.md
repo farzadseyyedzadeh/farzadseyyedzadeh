@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzadseyyedzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="farzadseyyedzadeh" />
 </p>
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Dart , Java **
+- 💬 Ask me about ** Dart(Flutter) , Java , PHP , Python **
 
 - 📫 How to reach me **farzadseyyedzadeh@gmail.com**
 
