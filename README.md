@@ -5,7 +5,7 @@
 </p>
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about ** Dart(Flutter) , Java , PHP , Python **
+- 💬 Ask me about ** Dart ( Flutter ) , Java , PHP , Python **
 
 - 📫 How to reach me **farzadseyyedzadeh@gmail.com**
 
