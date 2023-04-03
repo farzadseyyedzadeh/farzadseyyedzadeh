@@ -5,7 +5,7 @@
 </p>
 - 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about ** Dart (Flutter) , Java , PHP , Python (Django) **
+- 💬 Ask me about **JavaScript , React , Node.js**
 
 - 📫 How to reach me **farzadseyyedzadeh@gmail.com**
 
