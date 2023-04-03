@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzadseyyedzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="farzadseyyedzadeh" />
 </p>
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about ** Dart (Flutter) , Java , PHP , Python (Django) **
 
