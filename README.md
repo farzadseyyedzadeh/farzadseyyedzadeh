@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Drproteinnovin](http://drproteinnovin.ir/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **JavaScript(React) , Dart(Flutter)**
 
