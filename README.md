@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Drproteinnovin](http://drproteinnovin.ir/)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **JavaScript(React) , Dart(Flutter)**
+- 💬 Ask me about **Dart & Flutter**
 
 - 📫 How to reach me **farzadseyyedzadeh@gmail.com**
 
