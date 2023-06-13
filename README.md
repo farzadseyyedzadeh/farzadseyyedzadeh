@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm farzad seyyedzadeh</h1>
-<h3 align="center">A Web & Mobile developer from Iran</h3>
+<h3 align="center">A Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farzadseyyedzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="farzadseyyedzadeh" /> </p>
 
